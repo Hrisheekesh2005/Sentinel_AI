@@ -1,4 +1,4 @@
-# 🛡 SurakshaLens AI  
+# 🛡 Sentinal AI  
 ### Agentic Digital Safety Shield for Scam Detection
 
 SurakshaLens AI is an intelligent scam detection web platform designed to identify fraudulent SMS and WhatsApp messages in real time. It combines Machine Learning and rule-based reasoning to detect scams, generate risk scores, and provide proactive safety actions.
