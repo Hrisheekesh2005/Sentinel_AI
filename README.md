@@ -55,7 +55,7 @@ The system synthesizes three distinct layers of intelligence for maximum accurac
 - [ ] **Sentinel Watchdog:** Proactive background listener for real-time mobile notification interception.
 - [ ] **Vernacular Expansion:** Deep support for regional Indian languages (Hindi, Tamil, Malayalam, etc.).
 - [ ] **Self-Evolving Memory:** Ability for the agent to learn from user-reported "Safe" messages to further refine accuracy.
-- [ ] **Read the notification directly:**Ability for the agent to read the message directly from notification
+- [ ] **Read the notification directly:** Ability for the agent to read the message directly from notification
 
 ---
 
